@@ -11,4 +11,4 @@ Tema 2 – Snake
 
  Pentru acest proiect, pe langa matricea 8x8 de leduri, fire si placa Arduino, am folosit joystick-ul pentru controlul sarpelui. Fiecare inpout de la user va fi dat prin joystick. De asemenea am utilizat si LCD-ul pentru a afisa mesajele pentru utilizator precum si scorul.
 
- 
+ Video: https://drive.google.com/file/d/1W-_2hu65AsBaqiniVXIK7LqBBjmt2yxp/view?usp=sharing
